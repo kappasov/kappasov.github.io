@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+{% include image.html url="/images/avatar.png" caption="A sassy caption here" width=300 align="right" %}
 
-Describe yourself here. Dummy text ahead.
+In tactile sensing research, I want to understand the working principle of “dark sense” or “muscular sense”, introduced by the physiologist Ivan Sechenov  in the 1860s.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Working with me:
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+If you want to come and work with me, I expect you to learn SolidWorks for CAD, AltiumDesigner for PCB,   Linux, IDEs  (KDevelop and QTcreator ), or for advanced developers text-based editors (such as Vim or Emacs), Blender, version control systems (e.g., git), LaTex.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+I can offer  opportunities for potential MS students  to get into the the EU robotics community. After a rather sad consequence of tragedies, including collapse of USSR, World War II, USSR-Finish War in 1939-1940, famine in 1930s, we lost our supervisors who could advise and teach young generations. My supervisors were PhD holders from all around the World, including Vadim Nikolayevich MISHIN (Tomsk, Russia) – the strongest emotional competence I ever met, Yoshihiro KONISHI-san (Japan and Taiwan) – the toughest person in discipline I ever met, Veronique PERDEREAU (France) – the most wise and  diplomat I ever met. I can not be a “supervisor” for the young generation but still, I am pretending to be a “more experienced coach”. I force students always to have their own opinion and view to the problem. My rule of thumb for a  student is to learn by yourself (it builds neurons that will help in the future life to solve new problems without a supervisor).  I do realize that such approach requires strong nerves to keep working — for which I do not regret nor apologize.
+
+Student internships and master theses:
+
+I welcome Master students, and I’m especially interested in robotics-CS students (Linux, C, CAD, PCB, Mechatronics). I will stimulate them to contribute to Tactile Robotics projects
