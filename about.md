@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/avatar.png" caption="A sassy caption here" width=300 align="right" %}
+{% include image.html url="/images/avatar.png" caption="I am doing tactile fingerspelling" width=300 align="right" %}
 
 In tactile sensing research, I want to understand the working principle of “dark sense” or “muscular sense”, introduced by the physiologist Ivan Sechenov  in the 1860s.
 
