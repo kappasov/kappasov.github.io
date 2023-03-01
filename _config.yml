@@ -11,7 +11,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://zkappassov.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-github_username: kappasov
+github_username: zkappassov
 linkedin_username: hidden
 facebook_username: hidden
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
