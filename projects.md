@@ -15,5 +15,55 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 		<b>Tactile glove</b>: Togzhan edit this part. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
 		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
-
+	
+		<li>
+		<b>Vibero</b>: Adilzhan edit this part. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+	
+		<li>
+		<b>Honeycomb</b>: Rustam edit this part. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+	
+		<li>
+		<b>Event-based tactile sensor</b>: Saltanat edit this part. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+	
+		<li>
+		<b>Vibrotouch</b>: Valeriya edit this part. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+	
+		<li>
+		<b>Photoelastic tactile sensor</b>: Togzhan edit this part. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+	
+			<li>
+		<b>Handover</b>: Ayan edit this part. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+	
+				<li>
+		<b>Teleoperation</b>: Jabrail edit this part. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+				<li>
+		<b>Tactile Servoing</b>: Zhanat edit this part. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+					<li>
+		<b>Slip Detection</b>: Yerkebulan edit this part. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+					<li>
+		<b>RGB tactile sensor</b>: Daulet edit this part. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+						<li>
+		<b>Magnetic tactile sensor</b>: Daulet edit this part. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
 </ul>
