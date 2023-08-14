@@ -4,7 +4,7 @@ general_email: hidden
 academic_email: my-name@nu.edu.kz
 
 description: > # this means to ignore newlines until "baseurl:"
-  Kappassov works in Robotics, Tactile, Control, Manipulation, Touch, Haptics, Interfaces, Perception; He is originally trained as an engineer in Electrical Engineering, Radiotehnika, Power Electronics.
+  Research & Development, Teaching in Robotics, Tactile, Control, Manipulation, Touch, Haptics, Interfaces, Perception; He is originally trained as an engineer in Electrical Engineering, Radiotehnika, Power Electronics.
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 
