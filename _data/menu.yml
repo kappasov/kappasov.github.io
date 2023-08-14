@@ -13,6 +13,17 @@
 - title: "CV"
   href: "/cv/"
 
+title: "Teaching"
+  href: "/teaching/"
+  subcategories:
+    - subtitle: "Image Processing"
+      subhref: "/teaching/image_processing/"
+    - subtitle: "2023"
+      subhref: "/teaching/image_processing/2023/"
+    - subtitle: "ROS"
+      subhref: "/teaching/ROS/"
+    - subtitle: "2023"
+      subhref: "/teaching/ROS/2023/"
 - title: "Miscellany"
   href: "/miscellany/"
   subcategories:
